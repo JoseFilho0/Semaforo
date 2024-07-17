@@ -23,4 +23,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Semáforo
 
-- [Acesse o projeto finalizado, online]()
+- [Acesse o projeto finalizado, online](https://semaforo-tau.vercel.app/)
